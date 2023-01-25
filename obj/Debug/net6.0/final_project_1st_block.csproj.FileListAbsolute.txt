@@ -1,0 +1,15 @@
+D:\учеба IT\git_education\final_project_1st_block\bin\Debug\net6.0\final_project_1st_block.exe
+D:\учеба IT\git_education\final_project_1st_block\bin\Debug\net6.0\final_project_1st_block.deps.json
+D:\учеба IT\git_education\final_project_1st_block\bin\Debug\net6.0\final_project_1st_block.runtimeconfig.json
+D:\учеба IT\git_education\final_project_1st_block\bin\Debug\net6.0\final_project_1st_block.dll
+D:\учеба IT\git_education\final_project_1st_block\bin\Debug\net6.0\final_project_1st_block.pdb
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\final_project_1st_block.csproj.AssemblyReference.cache
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\final_project_1st_block.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\final_project_1st_block.AssemblyInfoInputs.cache
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\final_project_1st_block.AssemblyInfo.cs
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\final_project_1st_block.csproj.CoreCompileInputs.cache
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\final_project_1st_block.dll
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\refint\final_project_1st_block.dll
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\final_project_1st_block.pdb
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\final_project_1st_block.genruntimeconfig.cache
+D:\учеба IT\git_education\final_project_1st_block\obj\Debug\net6.0\ref\final_project_1st_block.dll
