@@ -1,4 +1,10 @@
-﻿string[] ChangedArray(string[] array)
+﻿string[] array = { "1t", "wasn't", "a", "very", "fast", "s0lve", "0f", "th1s", "task", "xD IMH0" };
+PrintArray(array);
+Console.Write(" --> ");
+PrintArray(ChangedArray(array));
+Console.Write(" ");
+
+string[] ChangedArray(string[] array)
 {
     int c = 0;
     for (int i = 0; i < array.Length; i++)
@@ -30,3 +36,4 @@ void PrintArray(string[] array)
     }
     Console.Write($"{array[array.Length - 1]}]");
 }
+
